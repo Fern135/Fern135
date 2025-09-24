@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Fernando
-- 👀 I’m interested in Video Games, learning new tech, and building cool stuff.
-- 🌱 Always looking to learn something new. 
-- 💞️ I’m looking to collaborate on any projects that you may need help making into reality. 
-- 📫 How to reach me webdesignbusiness11@gmail.com
+# Fernando Camblor
+**Backend Engineer — Python & Node.js**
 
+- 🛠️ FastAPI • Django • Express • Docker • CI/CD
+- 🔐 I build secure API scaffolds + automation tools
+- 💡 Featured projects: FasGen • G.E.S.A. • GenFakeData
+- 🌐 [Portfolio](https://fern135.github.io/PortFolio/index.html) | [LinkedIn](your-link-here) | fern135@outlook.com
